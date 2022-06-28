@@ -7,11 +7,8 @@ Aqui encontraras de todo, pero todo es un jeugo! :D un juego del aprendizaje.
 
 Aqui aprenderas:
 *Creado por el Camilo Team.
-<<<<<<< HEAD
-=======
 *Incluye ejemplos en windows, linux y mac.
 *Disponible para todas las edades.
->>>>>>> readme-mejorado
 
 Espero te diviertas!! :D  :D :D 
 
