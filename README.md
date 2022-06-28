@@ -5,6 +5,9 @@ Un blog increible para le curso de Git y Github de Platzi
 
 Aqui encontraras de todo, pero todo es un jeugo! :D un juego del aprendizaje.
 
+Aqui aprenderas:
+*Creado por el Camilo Team.
+
 Espero te diviertas!! :D  :D :D 
 
 **Saluditos :D**
